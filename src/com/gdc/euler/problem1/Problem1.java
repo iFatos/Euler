@@ -1,4 +1,4 @@
-package com.gdc.euler;
+package com.gdc.euler.problem1;
 /**
  * Project Euler - Problem 1
  * Problem1.java
