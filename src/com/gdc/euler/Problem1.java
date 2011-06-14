@@ -27,7 +27,7 @@ public class Problem1 {
 	 *  @param no arguments used
 	 */
 	public static void main(String[] args){
-		Problem1 prob1 = new Problem1(3,5);
+	    Problem1 prob1 = new Problem1(3,5);
 		
 	    long start = System.currentTimeMillis(); 
 	    
